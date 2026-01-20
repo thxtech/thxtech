@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=I+%E2%9D%A4%EF%B8%8F+DevSecOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=I+%E2%9D%A4%EF%B8%8F+DevSecOps!!!)](https://git.io/typing-svg)
 
 ---
 
