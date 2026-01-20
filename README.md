@@ -1,10 +1,10 @@
-# Hi, I'm thxtech 👋
+# Hi there 👋
 
-## 🔐 Security Research
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Freelance+%2F+CTO+%7C+ex-VPoE;%E2%9D%A4%EF%B8%8F+DevSecOps)](https://git.io/typing-svg)
 
-I'm a security researcher focused on finding vulnerabilities in open-source software.
+---
 
-### CVE Credits
+### 🔐 CVE Credits
 
 | CVE ID | Project | Description | Severity |
 |--------|---------|-------------|----------|
