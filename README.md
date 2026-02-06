@@ -12,3 +12,4 @@
 | [CVE-2026-22867](https://github.com/suitenumerique/docs/security/advisories/GHSA-4rwv-ghwh-9rv6) | [docs](https://github.com/suitenumerique/docs) | Stored XSS via Interlinking Block | High |
 | [CVE-2026-25539](https://github.com/siyuan-note/siyuan/security/advisories/GHSA-c4jr-5q7w-f6r9) | [siyuan](https://github.com/siyuan-note/siyuan) | Arbitrary File Write leading to RCE | Critical |
 | [CVE-2026-24008](https://github.com/widgetti/solara/security/advisories/GHSA-g8j7-vrfm-973m) | [solara](https://github.com/widgetti/solara) | Path Traversal in path_is_child_of | Medium |
+| [CVE-2026-25544](https://github.com/payloadcms/payload/security/advisories/GHSA-xx6w-jxg9-2wh8) | [payload](https://github.com/payloadcms/payload) | SQL Injection in JSON/RichText Queries | Critical |
